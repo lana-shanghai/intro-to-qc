@@ -17,9 +17,6 @@ source .venv/bin/activate
 pip install qiskit qiskit-aer
 ```
 
-Clone this repository by running this command in the terminal:
-git clone https://github.com/lana-shanghai/intro-to-qc.git
-
 Run the Hadamard gate on a qubit:
 
 ```
@@ -38,3 +35,4 @@ Run it like so:
 python bell_state.py
 ```
 
+Check the interactive drag-and-drop [circuit simulator](https://algassert.com/quirk#circuit={%22cols%22:[],%22init%22:[0,1]})!
