@@ -17,6 +17,12 @@ source .venv/bin/activate
 pip install qiskit qiskit-aer
 ```
 
+Note that sometimes the correct alias for `python` is `python3`, and the alias for `pip` is `pip3`. You would run instead:
+
+```
+python3 -m venv .venv
+```
+
 Run the Hadamard gate on a qubit:
 
 ```
