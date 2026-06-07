@@ -1,3 +1,5 @@
+### Shor's algorithm accompanying [concepts and exercises](https://www.circuitlabs.io/shors-algorithm) on the Circuit Labs website
+
 ### Prerequisites
 
 Install [python](https://www.python.org/downloads/).
